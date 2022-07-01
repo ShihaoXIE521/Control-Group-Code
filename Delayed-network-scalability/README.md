@@ -4,7 +4,7 @@ This repo collects the scripts to replicate the numerical results of the work *S
 
 Click [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9353260) for paper.
 
-## Contents
+### Contents
 
 - the files 'u.csv' and 'w2.csv' contain the parameters used for the simulations of the Hopfield neural network considered in Figure 4. In particular, 'u.csv' contains the constant inputs and 'w2.csv' contains the weights satisfying the sufficient conditions for scalability given in the work. Put these files in the same folder together with script 'Figure4.m' to enable 'csvread'. 
 
