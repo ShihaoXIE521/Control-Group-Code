@@ -1,2 +1,2 @@
-# Control-Group-Code
-Repository collecting the code for papers and project at the Control Systems Group within University College Dublin (lead contact: Giovanni Russo)
+# Code/Papers
+Repository collecting the code for papers and project during my PhD at University College Dublin
