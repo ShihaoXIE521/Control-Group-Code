@@ -7,7 +7,7 @@ This repository collects the materials for the manuscript
 ### Contents
 - **Slides**
 
-[60thCDC_slides.pdf](https://github.com/ShihaoXIE521/Control-Group-Code/files/9101624/60thCDC_slides.pdf), contributed by Marco Corragio.
+[60thCDC_slides.pdf](https://github.com/ShihaoXIE521/Control-Group-Code/files/9101624/60thCDC_slides.pdf), contributed by Marco Coraggio.
 
 
 ### Author and contributer
